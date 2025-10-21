@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="source">
-      <UniqueIdentifier>{4bf89529-093c-4ffe-81fa-87fb89837751}</UniqueIdentifier>
+    <Filter Include="src">
+      <UniqueIdentifier>{6358649e-9046-4a20-8522-d6a0eb7dbdff}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="source\dumper.cpp">
-      <Filter>source</Filter>
+    <ClCompile Include="src\dumper.cpp">
+      <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
